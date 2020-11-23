@@ -24,7 +24,8 @@
     "eslint-plugin-react": "^7.21.5",
     "prettier": "^2.2.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.7",
